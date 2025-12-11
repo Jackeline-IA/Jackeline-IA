@@ -14,7 +14,7 @@ Actualmente, me especializo en el ecosistema Java, construyendo aplicaciones rob
 
 * **Lenguajes:** Java 21 ☕
 * **Frameworks:** Spring Boot 🍃
-* **Base de Datos:** MySQL 🐬
+* **Base de Datos:** MySQL
 * **Herramientas:** Maven, Postman.
 * **Buenas Prácticas:** Clean Code, RESTful APIs.
 
