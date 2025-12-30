@@ -4,7 +4,7 @@
 
 > *"La programación es un universo infinito donde la única limitación es la imaginación."*
 
-Soy una persona movida por la **curiosidad**. Me fascina el mundo del desarrollo de software porque me permite crear soluciones desde cero y entender cómo funcionan las cosas. Aunque mi viaje comenzó con **Java** y bases de datos, mi meta es explorar y dominar múltiples tecnologías, ya que me apasiona la innovación constante.
+Soy una persona movida por la curiosidad. Me fascina el mundo del desarrollo de software porque me permite crear soluciones desde cero y entender cómo funcionan las cosas. Aunque mi viaje comenzó con Java y bases de datos, mi meta es explorar y dominar múltiples tecnologías, ya que me apasiona la innovación constante.
 
 ---
 
